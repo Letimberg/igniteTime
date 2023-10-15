@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   ⛛. Vite
 -   ⛛. Phosphor-react
 -   ⛛. Date-fns
+-   ⛛. Styled-components
+-   ⛛. @types/styled-components
 -   ⛛. Git e Github
 -   ⛛. Figma
 
@@ -73,15 +75,19 @@ Em construção.
     <pre>
     npm i phosphor-react 
     npm i date-fns
+    npm i styled-components
+    npm i @types/styled-components -D
     </pre>
 -   Iniciar o servidor local: <pre>npm run dev</pre>
 -   Acessar o projeto: <pre>http://localhost:8082/</pre>
 
 ## 🚧 Requisitos
 
--   Node: v18.17.1
--   React: v18.2.0
--   Vite: v4.4.11
+-   Node: 18.17.1
+-   React: ^18.2.0
+-   Typescript: ^5.0.2
+-   Vite: ^4.4.5
+-   Styled-components: ^6.1.0
 
 ## :memo: Licença
 
